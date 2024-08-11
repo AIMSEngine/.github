@@ -57,7 +57,7 @@ By participating in this project, you agree to abide by the Code of Conduct. Ple
 If you encounter any bugs or have feature requests, please open an issue on GitHub. Provide as much detail as possible to help us understand and address the issue.
 
 ### License
-By contributing to AIMSEngine, you agree that your contributions will be licensed according to [View the AIMS Community License](https://github.com/AIMSengine/.github/license.md)
+By contributing to AIMSEngine, you agree that your contributions will be licensed according to [View the AIMS Community License](license.md)
 
 
 ### Get in Touch

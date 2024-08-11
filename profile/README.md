@@ -48,7 +48,7 @@ Whether you’re interested in contributing code, improving documentation, or sh
 
 ### Contributing
 
-We welcome contributions of all kinds, including code, documentation, and ideas. Please check out our [contribution guidelines]([link to guidelines](https://github.com/AIMSengine/.github/blob/main/contributing.md) to get started.
+We welcome contributions of all kinds, including code, documentation, and ideas. Please check out our [contribution guidelines](https://github.com/AIMSengine/.github/blob/main/contributing.md) to get started.
 
 ### Join the Conversation
 

@@ -8,7 +8,7 @@
 
 ## Overview
 
-Welcome to AIMSEngine, an open-source Artificial Intelligence Management System (AIMS) designed to help enterprises map, govern, measure, and monitor AI deployments across their organization. AIMSEngine is built with the aim of conforming to the NIST AI standards, ensuring that AI is run in a trustworthy, secure, and transparent manner.
+Welcome to AIMSEngine, an open-source Artificial Intelligence Management System (AIMS) designed to help enterprises map, govern, measure, and monitor deployed AI across their organization. AIMSEngine is built with the aim of conforming to the NIST AI standards, ensuring that AI is run in a trustworthy, secure, and transparent manner.
 
 ### Why AIMSEngine?
 

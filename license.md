@@ -1,5 +1,5 @@
 # AIMS Community License Agreement  
-**AIMS Version Release Date: [Your Release Date]**
+**AIMS Version Release Date: August 11, 2024**
 
 **Agreement** means the terms and conditions for use, reproduction, distribution, and modification of the AIMS Materials set forth herein.
 

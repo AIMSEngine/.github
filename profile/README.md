@@ -52,4 +52,4 @@ We welcome contributions of all kinds, including code, documentation, and ideas.
 
 ### Join the Conversation
 
-Connect with us on [Discord](link to community)](https://discord.gg/h47hqQPx) to discuss AIMSEngine, share ideas, and collaborate with other contributors. 
+Connect with us on [Discord](https://discord.gg/h47hqQPx) to discuss AIMSEngine, share ideas, and collaborate with other contributors. 

@@ -2,6 +2,8 @@
 
 Thank you for considering contributing to AIMSEngine! We welcome contributions of all kinds, including code, documentation, bug reports, feature requests, and more. This document outlines the process to help you get started.
 
+## Get invited by sending an email to dev@aimsengine.com
+
 ## How to Contribute
 
 ### 1. Fork the Repository

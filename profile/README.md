@@ -36,6 +36,9 @@ AIMSEngine is built on a layered architecture to ensure flexibility, scalability
 
 3. **AI-Facing Layer:** This layer deals directly with AI systems, handling syslog collection, alarm collection, performance data, and AI model metadata. It ensures that the platform is closely integrated with the AI systems it manages.
 
+<img width="683" alt="Screen Shot 2024-08-12 at 7 32 04 AM" src="https://github.com/user-attachments/assets/d2478462-dc27-44ed-a64b-79a1ace7c9d1">
+
+
 ### Why Conform to NIST AI Standards?
 
 The National Institute of Standards and Technology (NIST) provides a comprehensive framework for AI governance, focusing on trustworthiness, accountability, and transparency. By conforming to NIST AI standards, AIMSEngine ensures that AI systems are developed, deployed, and managed in a manner that is ethical, secure, and reliable.

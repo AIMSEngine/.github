@@ -36,7 +36,7 @@ AIMSEngine is built on a layered architecture to ensure flexibility, scalability
 
 1. **Customer-Facing Layer:** This layer includes tools for mapping, governing, measuring, and monitoring AI systems. It provides the interface through which users interact with the platform.
 
-2. **Core Layer:** The core layer handles the heavy lifting, including rules enforcement, standards compliance, KPI tracking, customer impact assessment, remediation, orchestration and scheduling.
+2. **Core Layer:** The core layer handles the heavy lifting, including rules enforcement, standards compliance, KPI tracking, anomaly impact assessment, remediation, orchestration and scheduling.
 
 3. **AI-Facing Layer:** This layer deals directly with AI systems, handling syslog collection, alarm collection, performance data, and AI model metadata. It ensures that the platform is closely integrated with the AI systems it manages.
 

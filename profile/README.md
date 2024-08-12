@@ -36,12 +36,11 @@ AIMSEngine is built on a layered architecture to ensure flexibility, scalability
 
 1. **Customer-Facing Layer:** This layer includes tools for mapping, governing, measuring, and monitoring AI systems. It provides the interface through which users interact with the platform.
 
-2. **Core Layer:** The core layer handles the heavy lifting, including rules enforcement, standards compliance, KPI tracking, orchestration, remediation, scheduling, and customer impact identification.
+2. **Core Layer:** The core layer handles the heavy lifting, including rules enforcement, standards compliance, KPI tracking, customer impact assessment, remediation, orchestration and scheduling.
 
 3. **AI-Facing Layer:** This layer deals directly with AI systems, handling syslog collection, alarm collection, performance data, and AI model metadata. It ensures that the platform is closely integrated with the AI systems it manages.
 
-<img width="683" alt="Screen Shot 2024-08-12 at 7 32 04 AM" src="https://github.com/user-attachments/assets/d2478462-dc27-44ed-a64b-79a1ace7c9d1">
-
+<img width="1198" alt="Screen Shot 2024-08-12 at 4 14 24 PM" src="https://github.com/user-attachments/assets/978cd773-461b-4515-94de-49a9e019a105">
 
 ### Why Conform to NIST AI Standards?
 

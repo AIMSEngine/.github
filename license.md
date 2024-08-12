@@ -3,7 +3,7 @@
 
 **Agreement** means the terms and conditions for use, reproduction, distribution, and modification of the AIMS Materials set forth herein.
 
-**Documentation** means the specifications, manuals, and documentation accompanying AIMS distributed by AiR Platform Inc. at aimsengine.com.
+**Documentation** means the specifications, manuals, and documentation accompanying AIMS distributed by aimsengine.com.
 
 **Licensee** or **you** means you, or your employer or any other person or entity (if you are entering into this Agreement on such person or entity's behalf), of the age required under applicable laws, rules, or regulations to provide legal consent and that has legal authority to bind your employer or such other person or entity if you are entering in this Agreement on their behalf.
 

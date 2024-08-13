@@ -1,7 +1,5 @@
 # ![A I M S logo](https://github.com/user-attachments/assets/25b11fff-3567-41ff-ac88-d50d389ce3cd)
 
-
-
 ## Overview
 
 Welcome to AIMSEngine, an open-source Artificial Intelligence Management System (AIMS) designed to help enterprises map, govern, measure, and monitor deployed AI across their organization. AIMSEngine is built with the aim of conforming to the NIST AI standards, ensuring that AI is run in a trustworthy, secure, and transparent manner.
@@ -16,7 +14,7 @@ This platform is not just about ensuring that AI systems are compliant and trans
 
 AIMSEngine also emphasizes managing risk effectively, which is crucial for protecting your bottom line. By proactively identifying potential issues, minimizing the mean time to identification, and orchestrating swift restoration processes, AIMSEngine helps enterprises reduce operational disruptions and avoid costly failures. This ensures that AI remains a reliable asset, driving business value rather than introducing unforeseen risks.
 
-### Designed to handle Trifecta of AI Advancements
+### Design for Trifecta of AI Advancements
 
 **1. Very Large Context Windows:** Refers to the ability to process and consider vast amounts of contextual information, such as long-term dependencies, complex relationships, and nuanced patterns. This capability allows AI systems to make more informed decisions and understand the broader implications of their actions.
 
@@ -30,7 +28,7 @@ Delivering these capabilities at scale, in real-time, is indeed the holy grail o
 
 In the context of AIMSEngine, these advancements are crucial for effective AI management and trustworthiness. By integrating these capabilities, AIMSEngine can:
 
-- **Monitor AI Systems' Performance:** Detect potential issues before they escalate, ensuring that AI systems operate smoothly and reliably.
+- **Monitor AI Systems' Performance in Real-Time:** Continuous real-time monitoring is essential, especially for autonomous agents, to detect anomalies and ensure that AI systems operate smoothly and reliably.
   
 - **Ensure AI Systems' Trustworthiness:** Identify and mitigate biases, errors, and unintended consequences, which are critical for maintaining trust in AI.
   
